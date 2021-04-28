@@ -1,0 +1,8 @@
+clang++ main.cpp maze.cpp game.cpp mazeError.cpp -o MAZEGAME -Weverything -Wno-padded -std=c++14
+
+
+
+
+
+
+Grund für das Einsetzen von -Wno-padded: siehe TEST.txt Test 8
